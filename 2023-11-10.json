@@ -1,0 +1,26 @@
+{
+  "name": "David Freeman",
+  "age": 59,
+  "address": {
+    "street": "Tanhe Way",
+    "city": "Jumave",
+    "state": "AR",
+    "zip": "27592"
+  },
+  "contact": {
+    "phone": "(400) 710-5946",
+    "servicePhone": "800872578"
+  },
+  "birthday": "1998-08-13T07:38:59.259Z",
+  "ip": "176.180.192.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Beztiol ov vikuza ovmun nerez pet vepiv zi or gafosew talpam cim ku te pawu dovuru. Wu nekolum lualker mi osfo hi ek kazabiz muam vewabor ednumar ujaw ten pob atoru. Ruksubje domocna jeubu rergose nis mussi da racaspo lo wafaw hokpil dectair hiw won ewe. Lewmees awa titammo ujpo kuvcen viv reapifu num tudeveh mewop wubi cofibsal. Owo sawsav orulabva ec ov di jut an samozikab saodugoc he ruzuvo.",
+    "bio": "Wupnew midame vuwivohum ibsear wohtac von meju wot ofo pic ahi haja re. Owosaj ujturpe tos zodta bazjofan aztofec sizu cisesvo pab rimunhuj fankegvab cab puhle atki ci. Rausfub sadfo afi zu kukozav sar eliufagac loju jofum nu esdu nusot eme ozjile luw ruuwu wezo mes."
+  },
+  "apiKey": "4061a8f64c5482a72ca5229268b6cf82e77a0d268d2283be50d1e7525d2f90f7",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
