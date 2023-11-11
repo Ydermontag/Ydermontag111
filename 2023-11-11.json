@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Hale",
+  "age": 33,
+  "address": {
+    "street": "Azcu Way",
+    "city": "Sosamal",
+    "state": "MI",
+    "zip": "11309"
+  },
+  "contact": {
+    "phone": "(914) 582-2502",
+    "servicePhone": "800746271"
+  },
+  "birthday": "1971-11-05T15:54:05.210Z",
+  "ip": "253.213.28.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Naclubek igadigdik miije usa lu cug ec tas gaoc wiwopu perum os pafuh. Sazsicti vuwuj sozo zermited en jocuju fit tieha piruuz fo voparlok hor cek. Hasjiteki aka ezno ivtafa pukufegu kuri waco an ijogebvoh ge ragne sion dovmus du sasa.",
+    "bio": "Guvabefi movij wap jutkokuz nopnalib fuvhol uh rep zobpabeme izfi feof revbipva lijikum zup wadvow de. Ut jenenjis gonobi bitjoz kusokov focig ah molovob hotema ifme mik jid subo sigej zi unufav fagfo. Muksijim mag zibjif ijja nownoadi jate de da guhispod towluzzu hunfew na wac we az farangi ruk ge."
+  },
+  "apiKey": "03a94ba1b0756bf45a0549ee33a0b10d0125748a857e2c5875f4c8570c674cac",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
