@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Carroll",
+  "age": 43,
+  "address": {
+    "street": "Luvuk Park",
+    "city": "Elociag",
+    "state": "TN",
+    "zip": "90360"
+  },
+  "contact": {
+    "phone": "(761) 213-7770",
+    "servicePhone": "800528898"
+  },
+  "birthday": "1985-08-15T12:57:58.929Z",
+  "ip": "245.224.28.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Co bozes te heke situpe bo zane mivdaniv pogosrut sire pivez fit eco. Hufdoc achodewu an bo caj evvohese uzukudoze labdato mucajeh jog ubsinik avpun awumal wuvawo rojiulu. Zugbo pud kic peiheibo ceukunuw bute kizrunnoc tuti otludo doc aza cufmu nid. Cuugcud badetuf moepzi bugjon zevpa nozulet havfe dedoh ad igdu kacanuve ujhe udjolona.",
+    "bio": "We rapikeb diudu tencudaf si zaz wawsit fih hecwono puidejob leuvnu une jovgefok sevhowzi. Nocbaciz kerefabef bun navhenira diwap gokwapu nika eniwaz eripeha tadut vono piaku am se. Ogu mumebkaj fofde emocgas lu nok duludo sueze fi buvaki tifinom gazvu va."
+  },
+  "apiKey": "380fcd34019793ee1baa571f362d28e8d50dc1b2bae8885c30b188e40377dacf",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
