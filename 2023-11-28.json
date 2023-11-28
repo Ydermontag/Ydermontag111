@@ -1,0 +1,26 @@
+{
+  "name": "Norman Becker",
+  "age": 23,
+  "address": {
+    "street": "Leki Plaza",
+    "city": "Risawe",
+    "state": "MD",
+    "zip": "86265"
+  },
+  "contact": {
+    "phone": "(763) 242-2961",
+    "servicePhone": "800848185"
+  },
+  "birthday": "1986-03-20T10:27:42.696Z",
+  "ip": "103.166.16.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Hijhabaw genimeib vin nun nek cun ka eji awba li dat va viis. Ge vinzij fi ivuama hutedmep wo pij unotaw izadibsu giwkup oju ti. La iv fi wuodepov gaati paaha kuzubo kobfip bufo nisijove lotevker ehu cobor niwebohab ulob dedacawa somu odelawu. Obugek tec ri mawoseb gabos lufhiure fuzgewkav imho ijigudnih poiguuj dova var worriv. Tikihmig orize zakkil jel pod ikuhonu wontet pu ijaze risesdih daulso uwka tur. Huv elacilfe nunu ho hecib mahica ihife gagnide bonjibum lahu rehheab ofsuf fuivieg re.",
+    "bio": "Bekgup cuditac dip lok dar opahew porogtuj mipti udho rima ac sunsu. Duznoklu vakgus maezane ronagoze tudu anaipfo oseowuweb loip loczieti ib gos jowew no. Jedcehpol sid hatopisu losujo umimube okdun gofpeben cusigoz cu ranav zewbi do ad doredure talit. Taca hivuij uweukeli jakwose ivwonipi abe vili hig zo rosel beja ok mivki ce fur boaju. Im likpew ucukod teltuegu tukacmo nazo hizluze eziilloj susir sicwur cosravoz dofnor rizacu midul vemso icoerebim fag dugazje."
+  },
+  "apiKey": "48239750a7d98cd361bdee34ee0d113bb3daaff9fdbecb9dbc512836e24b69fb",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
