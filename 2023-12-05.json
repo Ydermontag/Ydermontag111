@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Norris",
+  "age": 22,
+  "address": {
+    "street": "Ildom Way",
+    "city": "Sozaraw",
+    "state": "NM",
+    "zip": "13224"
+  },
+  "contact": {
+    "phone": "(349) 982-2954",
+    "servicePhone": "800276654"
+  },
+  "birthday": "1977-12-06T05:45:04.311Z",
+  "ip": "149.188.188.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Nit be tubasgad fe vel nivruri ubpi doh humokoko iz doppicip popni hopuivi funibod. Fuzruhec ug ajugak lajovo eteemiw maw hukcabvar ofemileda rafil evnupga asafifino timpel dombimipi ta asme fafnihodu. Cidmahma dozvemges habuwibu zu liti okejojja si til sonhapane ze sarez bahoczab gopgah jid le.",
+    "bio": "Doh toara virewe tugwu naffo zo ziv vo gac izu okaizu ja kogumom zuv. Poable zacbuwu ugefavbe hof mojhekza ci vudobam zi fuf komi ah dawid vof jok. Siod geozo se muhoz ki budhu fec ne waj fejwifeze hif no kemofzuk bejnajaw lini jaciwi ko dugtafhu. Okgej upuva popiw hame vehjakne be nefkav nac isedasuhu epci ah edugiwpup zorohfa ala dev jifuzit emivibni. Cez anonuku goobjis heebjih ab pifle izi ensub gemerikap ehukoju omoop lal ezu vood."
+  },
+  "apiKey": "9b2e32a05e7aa25261d58d2eaaecf8999b04076258db1ac1a1769332d0bd0eb2",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
