@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Young",
+  "age": 29,
+  "address": {
+    "street": "Ante Loop",
+    "city": "Pujusgo",
+    "state": "NY",
+    "zip": "50732"
+  },
+  "contact": {
+    "phone": "(545) 825-6180",
+    "servicePhone": "800283816"
+  },
+  "birthday": "2004-06-21T00:38:21.805Z",
+  "ip": "60.3.156.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Apola zohkuvar luf reki gaej he nog sordo zuhi ar mim we. Zuaj ramuvzew diar wowvis rasjuzpo enbefuk duvhu ada ke garijbeh basesij bituhrew kapah docefe cu lojuja ceda veubol. Amgad but ticmo bo muf cu jopartaj hug amode bunvatmu wewliid zeki vuon cicfo kowfosen id ar si. Howcekeso iv lapiro wukgetog rihkegu rumab jolsu sagah konutiowo so zuvodol rijjoh. Upsid hurkot re eg ce co rezmaeda ufuge epocogzo rouco no log vonhen civ.",
+    "bio": "Vuwa boktin besnieh zi vav gomuz ceddozon cil ho fuh harnibam lif vus vis sip imodu nokkiron. Hi ocpejed le jorlissi nis fikulis nimide sevko ha jegufo comdamu gaaswen vul gaf. Odo efif moguwsa kofale de wawog biod juhuwu sa sil ca eniob seuca boup keuhu kagu sag. Wa tajno wow paj jaolo nalofa vi ta fircev uci makgewu wiphev obu elebo sazsabit ustiwdo. Vufium hiwew tawbeluk ja kojar bezuh epe diro tec zorpajo jursi pojgo eftufof niw roseripu tat udi uja."
+  },
+  "apiKey": "79c81cbd49234fdbff7b648c5fdba4dbbc7c3af379759f4c4f4124e006aa10fd",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
