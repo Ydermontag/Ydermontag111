@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Horton",
+  "age": 46,
+  "address": {
+    "street": "Lekge Loop",
+    "city": "Gaspenak",
+    "state": "WV",
+    "zip": "95739"
+  },
+  "contact": {
+    "phone": "(776) 655-1285",
+    "servicePhone": "800491342"
+  },
+  "birthday": "1995-06-03T21:12:34.961Z",
+  "ip": "184.195.100.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Sacoj jemob dit rahu onza roatoep fagkop afawise ezeopeme sakeleh po cibfarin. Celu hucu vak aku wakiv evodulepu nevub wa vofnid akobadwu ej voh cuhcamni vuhgonvab. Fo omsoz ge bol have mun zeve muevauja mim ciwkaico gip kef zakfosti liz fo bip.",
+    "bio": "Fadezhe aw nasapzuz gotaciwa pawteelu gib da zuw bolulol cew gi okatu uhej pulam fufwobal ru ukoner. Okagi pelduf giwa padwe hih ter dicuk enaila piwo ti sicsiv urcir nino luzizulu jivnab nobuuho aka gibike. Di fisu urfa macni bidwupkiv foore aftapi medha nocgez taudaera huun ruho joclorat istuwpi rig."
+  },
+  "apiKey": "419d35b2b8eca2514ce0667383df1a1ab9ada67c4dd5ede629eebeaba74efe1f",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
