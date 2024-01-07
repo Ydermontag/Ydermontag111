@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Cohen",
+  "age": 33,
+  "address": {
+    "street": "Mihok Trail",
+    "city": "Azmogbe",
+    "state": "NE",
+    "zip": "06051"
+  },
+  "contact": {
+    "phone": "(401) 472-3991",
+    "servicePhone": "800491724"
+  },
+  "birthday": "1965-08-31T11:05:06.837Z",
+  "ip": "91.103.30.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Wofuk jaefooke zubi leiwe luwnope suvoj oda ofpealo fuofezoc jep ga tuzeita umpef zu ozjuni coho. Meozu ducirit nih mihatgup fa ta mo zobinu coodo gac ug se oz hocni mom bugi fil jawejvu. Ka pobkon ji tawfaco tise nilladapa aslis tac oj pa po gaz hihrutsan ceiziva lo jubaofo. Jikustu heh badju moguoh jujrur ekaze sibaom adfe gogovi puga horiva susihdi vugisiemi befpewvem.",
+    "bio": "Tamlidep guvvul lusca wucuvlej ku rid do molul belebira cesdo zesahwut no cakef evi vev geezo koj cabneac. Coghanzo awahiw oli usloz zotozi dimvifpen dibed je pelawnis sesicbal kum lof fa raramtec. Lod romfecim di pujsufa veera totpivnog duunlec arewazo papbi visbet vofon rep wuamep ci."
+  },
+  "apiKey": "d41667c83182b1e319422bb1e3250da66253a8dc671f90a411b6e8effd722f8f",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
