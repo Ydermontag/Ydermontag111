@@ -1,0 +1,26 @@
+{
+  "name": "Sam Cross",
+  "age": 63,
+  "address": {
+    "street": "Zumi Trail",
+    "city": "Helevi",
+    "state": "NC",
+    "zip": "25008"
+  },
+  "contact": {
+    "phone": "(651) 978-2170",
+    "servicePhone": "800476854"
+  },
+  "birthday": "1959-11-14T07:54:51.547Z",
+  "ip": "55.172.218.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Hulsa nozvupu get huzo ja van sudtakvez jinko hoshasbas hih imac mahodhe biwobhos. Zo ejaudodak bavabna jazjisi obudo seli mag ladapsec ipa tec kegab uwagufu coj su narjuz upavikir. Gud eti tipuzi widvel uwu serhu hileveb niw cadfaru itubore tezibna bucve. Ivhapej no vut ididurud go joh tukjiek efi cujuweb nuzici norciz viviga ani.",
+    "bio": "Ap to vepbaena wi ribjiwkif tegjop povbu lam hofa sac nisodahi tingaom ewarad izodap ud. Mega nuloh no fubofuga lu kazgaw zebitipe vasekce gek lamruz uma izufjo dafwe bokzejo dovnag. Pekla ofec hevbam dovuko jovso geofe uvhok futewbev cupi omceluw cajzi kujozec jobegga kewki tomulgo."
+  },
+  "apiKey": "76ff9ae815b03365c302641fe8bf60b3bc0c441c895fea38da5e8579ae46398f",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
