@@ -1,0 +1,26 @@
+{
+  "name": "Christine Porter",
+  "age": 25,
+  "address": {
+    "street": "Wogki Place",
+    "city": "Pijnajlu",
+    "state": "NM",
+    "zip": "63344"
+  },
+  "contact": {
+    "phone": "(755) 992-9462",
+    "servicePhone": "800413119"
+  },
+  "birthday": "1994-10-19T15:01:45.429Z",
+  "ip": "85.129.122.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Pimi rudi laevluz focode cofu habe raes zi jo ho bimsesoj mip lo vozhaw enu duwij. Gahtu zoukepu cuz dadure unueriji gozi jun zah ba nidkednu hilalti sures ogalepva ne ivcaf jur osu zenavki. Evireonu ozateha ozgin bopsaiz ma epkaco kug tuogupa pipomu zasa su bohce hoteceif omitawo zuweki no pimrepwa oj. Sop ro nahumci di at mazucevo mo mo meewomu vuhobek cuphi lokweeta faj.",
+    "bio": "Asooz lur am buoj gebuzo bu tadib ezmiza emuj roj rupo hacsa cecusoge. Amaz zok kemtudef poptanih bowrezet te jibwuuk hoelu velpobvuz ha vo rupfevu muf kiw lobnekoz osciwkig. Mo ekien kulus cadha tuflu hidele kigahud rabulase gawipas be kenmiil ju aprompi ciopew mo bes espice."
+  },
+  "apiKey": "6b6fd80c309b3b9ac595d201c356530c8cd8071f57366ffe14b9b1d4f7bad432",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
