@@ -1,0 +1,26 @@
+{
+  "name": "Marguerite Patrick",
+  "age": 55,
+  "address": {
+    "street": "Vala Path",
+    "city": "Jencicup",
+    "state": "VA",
+    "zip": "12856"
+  },
+  "contact": {
+    "phone": "(714) 346-5337",
+    "servicePhone": "800427521"
+  },
+  "birthday": "1978-07-30T11:16:39.134Z",
+  "ip": "64.221.225.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Lev hodwec tohracci tahas zasguz ato ja mimlud hodfoz loja ata wuk tuvnu. Leghe po buske zineh vira dup huniloma zartuc iswa ekoffat pi luhkik osuipiop ad neovebob wenab sicbo ojliv. Ogikomo copen debmuh ir non so lukekej kag tajok ri unvok od ofma pohuzgab un tuvvuz.",
+    "bio": "Okater afudaih de josbalzu utake wil vovo mom iv zihen pijokora ta. Zoltuta ume kid huageon kimro ogiweh wusuvon ohpehmod ju aku omjes nibu wew oku hicwacis sab nuw. Hodud rivus ut buhti zidhep ahiwe hof po ewozav weginna ipu enimu. Ga bugedabe be ap beozaih fel powdasda na esco toew jadvokma tuk egu sokga ce."
+  },
+  "apiKey": "dd8fcfd43b4e63ab7599d23eec182b0a5c146781835517e18a7ebfcae1090d76",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
