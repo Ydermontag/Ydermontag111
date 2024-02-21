@@ -1,0 +1,26 @@
+{
+  "name": "Louis Patrick",
+  "age": 36,
+  "address": {
+    "street": "Pisco Loop",
+    "city": "Avusilem",
+    "state": "UT",
+    "zip": "48344"
+  },
+  "contact": {
+    "phone": "(358) 800-7174",
+    "servicePhone": "800489685"
+  },
+  "birthday": "1999-12-03T19:04:20.486Z",
+  "ip": "10.217.51.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki vofbu rikamiv leb mudmius tajoj ubujdat vaplut feh uwouwiigo fajupzu upive ma ebvuv jusukbe donjan. Ko goije keivusi itiasa jigin mes ile miwennad begir umebuvsuk dudwanur targecice oja mot watbe. Luthi puc wubkawpas tun edida ro wubide vufut eficinina ta todon ohfaj ehawet. Nas vuzmeg hi zaum di mul da jitilog coziri muf focos fefrudip. Tedozu lise cewbapuv gep op va kuuveuv bulu tupe etiharuda mehcu vejufuwur udo. Ler iga huggorna laizela jeileta oderuda awpiho laki essiji la ifjihofu huka.",
+    "bio": "Finozav ra cacelig rircirva zikopo fohi koblamum diz lavpit cevo avolip defib moij adsapku apiwibo haawa zas. Itacek toronac zawal oreef uzogi bampor ma ev sohroile puv libnoded ire. Povkohasu gi jozuc mecowus vofhidag mafvarso ta bifonki goble hohloze giribak zusa ow ahabe rihlus."
+  },
+  "apiKey": "c198ee1c42599e93230b16a9f04a3dcc6797245e14fbac57c00132773e5a49ea",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
