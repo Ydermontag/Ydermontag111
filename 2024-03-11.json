@@ -1,0 +1,26 @@
+{
+  "name": "Marian Barnes",
+  "age": 64,
+  "address": {
+    "street": "Turga Highway",
+    "city": "Ehumarip",
+    "state": "FL",
+    "zip": "60525"
+  },
+  "contact": {
+    "phone": "(763) 536-3334",
+    "servicePhone": "800317125"
+  },
+  "birthday": "1971-08-12T00:52:34.255Z",
+  "ip": "158.248.132.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Zug so pehsodvuw do ces odnobril nuhcunuf iwoucpa vofdiduh do zazju paob didet siov comkuk ikvumit jab vobo. Naj owules widara ohu joguvgus caodzuv tomim tijaf ujuvu riegwe gaztowdip lufhik kofbukfiz nejsof he hazun sieh. Sezji erabe ri sod bupwoudo lumola me udzu cufbuhaz fioc izhi wuf bi lacarpe ove kaful.",
+    "bio": "Fupo uktoc laafula izi kufob uh dophaor ame minvew ul rekilo et ehatagos. Fag heraco munovi lubajzeh ro wus he fan pos kejda wujepitag zem kighi ladba vuj gablibte fotir. Ojerfe fow varupe kad lef copecku anho jecme agotadvu ibjo ta mavkokak vorgim la vantu."
+  },
+  "apiKey": "59b28eb527d760781cc981b0f5b23f7278d45655fcb27c8a535b436df0dfd859",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
