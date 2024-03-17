@@ -1,0 +1,26 @@
+{
+  "name": "Betty Wilkins",
+  "age": 23,
+  "address": {
+    "street": "Lazih Point",
+    "city": "Couvowi",
+    "state": "MI",
+    "zip": "03606"
+  },
+  "contact": {
+    "phone": "(242) 265-8942",
+    "servicePhone": "800818132"
+  },
+  "birthday": "1981-09-12T16:46:07.884Z",
+  "ip": "59.250.139.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Eru vuvzugol weg umaji imo del hondovce lide po mo pichivo va ki zozri wisihug. Ha owu tivgog vozzag urvakpe ku din mo ime gi mag ujpoma tiraze harmut. Povec paziiwu wivid hihsiroj gawlangal bomjotad iwniag ovenu rejiefi mofo ho rik zerulup. Vaheje jikeug guvoj cuamaaj kevu nalfe riwis mozabu cuurbo fo ge dihjo bow vupi tutushap mur coleji. Heva pa us comogzag ewov ehjikkum hozmo waszoz fiz firupwo jap satu da wu netjutac fuw. Nukhugeg jejow irdijguw jofsufe foina samiplo wum buh vahkot fawijho wejinpew amujoezo vagueja ajwezog seoroiwi kuc maj zire.",
+    "bio": "To ves jauwbe ve ku daju ziva likuru oseusauba wawpoup tebmozfa ruodopem zadafjuc wu woda. Wauz cuevbu terot vajo pic zewenrez kudif janawof cepirpud temheinu sucu epocoaw cepor sizuw ko. Fek ku murkogefu rinke noedi umlanha uljudjoj va gatif voni hefgehel vuuzuti ibeas amu luj wa suih kek."
+  },
+  "apiKey": "0b202b17adaf1caef0475c1965f4ef96340a29618bcd9e81a20919f1a07713ef",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
