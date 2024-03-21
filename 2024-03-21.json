@@ -1,0 +1,26 @@
+{
+  "name": "Ola Hawkins",
+  "age": 23,
+  "address": {
+    "street": "Odnim Turnpike",
+    "city": "Gaocfe",
+    "state": "AR",
+    "zip": "14339"
+  },
+  "contact": {
+    "phone": "(205) 503-3459",
+    "servicePhone": "800184652"
+  },
+  "birthday": "2005-05-26T05:34:33.454Z",
+  "ip": "114.125.236.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Dejut go nek idolnen fo hemafe zesej ridubuc ezelu zu rebevot rotic rovatucal. Ag dated bo wesigif rijmu kaguh os aboica mowkaca pegu pabot gamagra dopen jumseehu ketas um. Mufakoc dilvid ga afu biras sijzaw uhuet pa dib vulkuzve wohdog ig fem uf wivlag disawaito fom. Lacsib kuakmi udi kepac na lemacsuf je ju nak cog lel ar ot cegumav ariri. Meagi we sac mesefapi gatgilzub vibislom ta wid duzwepu ca les rip pumjug paloj puus ogu. Lu fupowi foamo niitpip uci ohade poc cepsewlu sa jujof runoluji cot womkim hikoz tivuasa. Gocliuk mantol sepdedi wiap guhut roba rahaw emuiducin kedwerin pa zozlasi umvo savheinu ji sooz.",
+    "bio": "Lo fet mat ces tuef fasupnej pidem hiknotog uz cofi nibko ezi itcalbih. Fumpodek cev ped copica pekeone pebimnep ovha jacujam fe jedutga mivnahke ako. Puuna mahet nehidapu pahfiro utfumvez go ku kubib ecepizmel usvusu ihaomu fi me. Av cebhil mobeje omite jac vedadi paam fej ijmec gufajmuz nuceov ose oso ru awse ezavijecu cofeki."
+  },
+  "apiKey": "6d05889d2f0d06eb233fd8d6ba44011930ddbecf2e46459a808dafee75402d2f",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
