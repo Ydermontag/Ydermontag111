@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Wong",
+  "age": 24,
+  "address": {
+    "street": "Anezi Plaza",
+    "city": "Juvioz",
+    "state": "TX",
+    "zip": "89581"
+  },
+  "contact": {
+    "phone": "(747) 536-6735",
+    "servicePhone": "800561222"
+  },
+  "birthday": "1985-09-22T09:06:50.632Z",
+  "ip": "66.98.241.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Tocnejeze ipoviv ganueve nozabed vo cuboda vaopevo mo bavwukur sofum unboj ce zo acnega hevurod mit buhir ehja. Zidjesaj wu dengo pibug gu zos uswesed hulsajre nuclas socro ovnowtom gomamoz ji zadhufab mownuzat di. Pe amhu heakoza gu piomaam keumeos dacucted mo vogel uz jenahek hepom duemi ma ri me. Sifugi jukvustuh oj gi zoam sid hinpo pevpaj ami itwaj li ifajotuv. Suf idocja ijehe soz kitku adufo ji fol patruow movoana ifden luj niore nuwun zelaru nol civbi dagag. Mu epuezeil funul nujsi ma mezuit bipe gifav go ce ficte soneruj pebota mu govo punkabvik.",
+    "bio": "Luctomwod gep tidosog tuloja be kavisot lajodegoz zenmajti ciwe wiw dokoken ujraj vispavpun vikaj ekanic olcov tul. Ow zeh uni gisdihhad heh nih kabri aj fi lun pepag mefwe rofukoop vaebnok mo susuh. Wa anpegih nilobsot ni vavwete zanuspak rigju iropiitu pigegu lagrup arneddad magvo janof."
+  },
+  "apiKey": "72403d58f6e9dd1c814d5bd930d3b109fc2c30c17fa1478c3d5218b312b5ecb8",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
