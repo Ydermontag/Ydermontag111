@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Paul",
+  "age": 21,
+  "address": {
+    "street": "Lanu Heights",
+    "city": "Iniwucufo",
+    "state": "MT",
+    "zip": "30208"
+  },
+  "contact": {
+    "phone": "(666) 577-3902",
+    "servicePhone": "800699548"
+  },
+  "birthday": "1992-12-09T05:21:17.814Z",
+  "ip": "252.156.57.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Iwila dip siz ojuempiw hilci zuvnunil ge fise fudumuw gubev gig zemazemo iguucecof rauloti voz sib. Iviruj aneupute leni boskac udite jamjafzos usu dep vujgif nawdikos moiz newfive uja mij guwuf. Wazar gemev umufem lucalafi volci zamocoose ve wa mammaj zopni wufpublu lime. Ohe suc birnodsuj teuze itu puv lak mezo osloj mi mo kuwmeh givawugo cejagli radal bef ni. Deknan boz ro hus kebinhol pobci fonmiv zivivup babu go buroko fag tani luc teksid buv. Uro cuciddac uj hadas hotapzuc sicusipa labifmu osehi etejuppu pelase los livcasa derake menuho cecel tagifov odsoib odugof.",
+    "bio": "Uldid care cibilu ajriup dic bezemag joc keaz zej wip paferuv dukuhhiv fifte ta ig ranji jalisaji gevjisuw. Ho timden eb rewuw mojivi ojsu vakibon dojuj segsezzi awe olu fav ceozeega. Zuzuf tinuc nif bagdom zo ugevid pomi tojti genupez posjegni om hagoeho. Opesu fesma ve jeg oregib hojobbo duwi zutibfe evbogda zu wostanzew ikuputsi hucguzo kahvical. Mihbuj gube za hurukcer geb umuhot nas wav rafbir lidico dekebcak fibatiraj. Memhupuj faicaba vuak nef oz covpuuc ehto egabe abafowu ugi bitgafo sow jiemu onu fefeh. Rubkusco dukulov wu coc vurmihto johozo bale casaufe hejez zurlelvic lu getiprat idapokzol."
+  },
+  "apiKey": "a4754944f493c9e1ca1f1fb171cdd8dfe71419a66d57da60ce62abb9d2278b2c",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
