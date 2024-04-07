@@ -1,0 +1,26 @@
+{
+  "name": "Gary Tyler",
+  "age": 22,
+  "address": {
+    "street": "Tinif Square",
+    "city": "Lehuten",
+    "state": "MT",
+    "zip": "96485"
+  },
+  "contact": {
+    "phone": "(939) 887-8908",
+    "servicePhone": "800877685"
+  },
+  "birthday": "1961-09-11T09:10:53.859Z",
+  "ip": "237.234.83.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaba co mi gesubih ogacuk se deohi wevpoh buhijfu ge muw iti wo bef ciobeji. Pibvu uta igkasde ta bottec di vu bobo obi eseico hacdopez kiejaju rududbi. Tov dasdikjub zecilo weje nip tiwme nunnu wicsal kefarnu vepe waciocu wo hoc dadone. Oc rarho edahak gof vewa popi jemugap andetgif wezhozkeb ufulippe cupuf petkosgos kucis du dafki ogcocde. Gosa tuc ifveli pushe ivi zu vorazte rov dek bit osmeuro me kefza leonsi ni he zukeri toteciifi. Gimi wa zalimiz loumiave lutuw jepmogi ha ti dovpe foibuhiw noab dukfedhol one faver viftehkac.",
+    "bio": "Voca zeivkap fuk kitpivod akadocuf ra re jike erze mari mosrut jo. Ut ojbuf vip ifuajgu fuvsacuk noferu eju ez ja do ratsuc bi hoc pos ziwub ludfifa wifujnuf. Bede nefdogfa we usse sojtev gunjezme lagzepce ha veer rozadnu asalev hobnib ot ogochiv fis etezun coipiut. Wozdikli jus sowi fa up pu bekih ki fubogu ke tuzejo voha lo."
+  },
+  "apiKey": "bc401e0b8fade7a43d517f9433cf7872ba7f0a4d80053cc8db0a549ef3a427f2",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
